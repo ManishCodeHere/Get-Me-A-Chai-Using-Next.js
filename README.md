@@ -1,8 +1,8 @@
-✅ Get-Me-A-Chai – Crowdfunding Platform for Creators
+Get-Me-A-Chai – Crowdfunding Platform for Creators
 
 Get-Me-A-Chai is a crowdfunding platform where creators can receive financial support from their fans, followers, and supporters. Supporters can show appreciation by “buying a chai” and help fund creative projects.
 
-🔹 Key Features
+Key Features
 
 Landing Page: Includes login and about section.
 
@@ -24,7 +24,7 @@ Messaging Feature: Supporters can send a message along with their payment.
 
 Responsive Design: Works smoothly on both desktop and mobile devices.
 
-🔹 Tech Stack
+Tech Stack
 
 Frontend: Next.js, Tailwind CSS, HTML, JavaScript
 
